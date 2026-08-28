@@ -1,0 +1,48 @@
+body {
+    background-color: #4f78e8;
+    color: #FDF652;
+  font-family: "Arial Rounded MT Bold", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+header{
+    color: #FDF652;
+    font-size: 50px;
+}
+
+h1 {
+    color: #ffbaeb; /* Gold for emphasis */
+}
+h2{
+ color:#FDF652;
+}
+h3{
+ color:#e9baff;
+}
+h6{
+    color:#4f78e8;
+}
+/* unvisited link */
+a:link {
+  color: #ffbaeb;
+}
+
+/* visited link */
+a:visited {
+  color: #ffbaeb;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ff00b7;
+}
+
+/* selected link */
+a:active {
+  color:#ffbaeb;
+}
