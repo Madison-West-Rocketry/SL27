@@ -1,7 +1,8 @@
 body {
-    background-color: #4f78e8;
-    color: #FDF652;
-  font-family: "Arial Rounded MT Bold", sans-serif;
+    background-color: #567b96;
+    color: #FEE42F;
+    
+  font-family: "Bpmf Huninn", sans-serif;
   font-weight: 400;
   font-style: normal;
 
@@ -11,38 +12,31 @@ body {
     padding: 20px;
 }
 header{
-    color: #FDF652;
+    color: #FEE42F;
     font-size: 50px;
 }
 
 h1 {
-    color: #ffbaeb; /* Gold for emphasis */
+    color: #FEE42F;
 }
 h2{
- color:#FDF652;
+ color:#FEE42F;
 }
 h3{
- color:#e9baff;
+ color:#FDF652;
 }
 h6{
-    color:#4f78e8;
+    color:#567b96;
 }
-/* unvisited link */
 a:link {
-  color: #ffbaeb;
+  color: #FEE42F;
 }
-
-/* visited link */
 a:visited {
-  color: #ffbaeb;
+  color: #FEE42F;
 }
-
-/* mouse over link */
 a:hover {
-  color: #ff00b7;
+  color: #ffec6f;
 }
-
-/* selected link */
 a:active {
-  color:#ffbaeb;
+  color:#FEE42F;
 }
