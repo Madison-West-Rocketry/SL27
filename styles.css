@@ -1,9 +1,13 @@
 body {
+  background-image: url('StarPhoto3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #567b96;
     color: #FEE42F;
-    
-  font-family: "Bpmf Huninn", sans-serif;
-  font-weight: 400;
+  
+   font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
   font-style: normal;
 
 
@@ -12,31 +16,40 @@ body {
     padding: 20px;
 }
 header{
-    color: #FEE42F;
+    color: #d1f2f5;
     font-size: 50px;
 }
 
 h1 {
-    color: #FEE42F;
+    color: #d1f2f5;
 }
 h2{
- color:#FEE42F;
+ color:#d1f2f5;
 }
 h3{
- color:#FDF652;
+ color:#d1f2f5;
+}
+h4{
+ color:#d1f2f5;
+}
+h5{
+ color:#d1f2f5;
+}
+footer{
+ color:#d1f2f5;
 }
 h6{
     color:#567b96;
 }
 a:link {
-  color: #FEE42F;
+  color: #d1f2f5;
 }
 a:visited {
-  color: #FEE42F;
+  color: #d1f2f5;
 }
 a:hover {
-  color: #ffec6f;
+  color: #e2f6f8;
 }
 a:active {
-  color:#FEE42F;
+  color:#d1f2f5;
 }
